@@ -11,7 +11,7 @@ public class Hello {
 
     public static void main(String[] args) {
         System.out.println("Hello, Mohamed Welcome to Jenkins For Java");
-        System.out.println("Here are some changes");
+        System.out.println("Trying Webhook");
         System.out.println("Made some changes");
         // Scanner scanner = new Scanner(System.in);
         // int num1= scanner.nextInt();
