@@ -12,7 +12,7 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello, Mohamed Welcome to Jenkins For Java");
         System.out.println("Here is a small Calculator Program");
-        System.out.println("Please enter the first number: ");
+        System.out.println("Made some changes");
         // Scanner scanner = new Scanner(System.in);
         // int num1= scanner.nextInt();
         // System.out.println("Please enter the second number");
